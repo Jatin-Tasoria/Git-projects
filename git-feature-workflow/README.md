@@ -14,4 +14,6 @@ revert, and release tagging.
 
 ## Tools
 - Git
-- GitHubWork in progress notes
+- GitHub
+  
+Work in progress notes
