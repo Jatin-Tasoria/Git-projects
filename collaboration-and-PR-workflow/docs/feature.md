@@ -1,1 +1,2 @@
 Login feature documentation
+Improved documentation
