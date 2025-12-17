@@ -22,6 +22,21 @@ Purpose:
 
 ---
 
+### Project -2 : Collaboration & Pull Request Workflow
+**Focus: Team-style GitHub usage**
+
+- Feature branches
+- Pull Requests (PR)
+- Code Review Flow
+- Protected branches
+- Forking and upstream sync
+- Issue-based development
+
+Purpose:
+>To simulate how Git is used in teams and open-source projects
+
+---
+
 ## Tools & Technologies
 - Git
 - GitHub
