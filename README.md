@@ -37,6 +37,18 @@ Purpose:
 
 ---
 
+### Project -3 : Release & Recovery
+**Focus: Advance Git Operations**
+
+- Stash Usage
+- Cherry-picking commits
+- Reverting production mistakes
+- Using reflog for recovery
+- Tagging release
+
+Purpose:
+>To demonstrate advance Git skills required in real production scenarios
+
 ## Tools & Technologies
 - Git
 - GitHub
